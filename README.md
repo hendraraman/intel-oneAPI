@@ -15,7 +15,7 @@ The prototype aims to demonstrate the feasibility of an automated podcast genera
 
 ## Libraries used
 - Langchain
-- langchain_anthropic
+- anthropic claude - 3 opus 
 - Elevenlabs for text-to-speech functionality
 - Groq api (mixtral-8x7b) for summarization
 

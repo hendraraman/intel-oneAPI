@@ -13,7 +13,7 @@ The prototype aims to demonstrate the feasibility of an automated podcast genera
 ## Programming Language
 - Python
 
-## libraries used
+## Libraries used
 - Langchain
 - langchain_anthropic
 - Elevenlabs for text-to-speech functionality

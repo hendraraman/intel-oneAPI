@@ -1,14 +1,23 @@
 # intel-oneAPI
 
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name - Neural Nexus
+#### Problem Statement - Develop a system to automatically generate audio content in the style of a podcast, utilizing the prompt provided  with the aim of producing engaging and informative conversations
+#### Team Leader Email - gauthambalraj07@gmail.com
 
 ## A Brief of the Prototype:
-  This section must include UML Daigrms and prototype description
+The prototype aims to demonstrate the feasibility of an automated podcast generator. It will accept user prompts and utilize several apis to gather relevant information from sources like Wikipedia. A large language model will then summarize the retrieved data, generating conversational-style content. The output will be in audio format, mimicking a podcast, with synthesized voices engaging in a discussion based on the provided prompt and summarized information.
+  
   
 ## Tech Stack: 
-   List Down all technologies used to Build the prototype **Clearly mentioning Intel® AI Analytics Toolkits, it's libraries and the SYCL/DCP++ Libraries used**
+
+## Programming Language
+- Python
+
+## libraries used
+- Langchain
+- langchain_anthropic
+- Elevenlabs for text-to-speech functionality
+
    
 ## Step-by-Step Code Execution Instructions:
   This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed

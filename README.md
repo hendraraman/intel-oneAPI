@@ -23,5 +23,4 @@ The prototype aims to demonstrate the feasibility of an automated podcast genera
 ## Step-by-Step Code Execution Instructions:
   This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
   
-## What I Learned:
-   Write about the biggest learning you had while developing the prototype
+ 

@@ -17,6 +17,7 @@ The prototype aims to demonstrate the feasibility of an automated podcast genera
 - Langchain
 - langchain_anthropic
 - Elevenlabs for text-to-speech functionality
+- Groq api (mixtral-8x7b) for summarization
 
    
 ## Step-by-Step Code Execution Instructions:
